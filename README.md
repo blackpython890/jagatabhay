@@ -13,6 +13,11 @@ I'm Jagat
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagatabhay&repo=TSAI&show_owner=True&theme=cobalt)](https://github.com/jagatabhay/TSAI)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagatabhay)](https://github.com/jagatabhay/)
+
+
+
+
 
 
 <!--
