@@ -7,7 +7,7 @@
 I'm Jagat  
 
 
-[![Jagat github stats](https://github-readme-stats.vercel.app/api?username=jagatabhay&theme=gruvbox&show_icons=True)](https://github.com/jagatabhay/github-readme-stats)
+[![Jagat github stats](https://github-readme-stats.vercel.app/api?username=jagatabhay&theme=gruvbox&show_icons=True)](https://github.com/jagatabhay/)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagatabhay&repo=TSAI&show_owner=True&theme=cobalt)](https://github.com/jagatabhay/TSAI)
