@@ -1,22 +1,20 @@
 ### Hi there 👋
 
 
-
 ### Who am I ?
 
 I'm Jagat  
 
 
-[![Jagat github stats](https://github-readme-stats.vercel.app/api?username=jagatabhay&theme=gruvbox&show_icons=True)](https://github.com/jagatabhay/)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jagatabhay&theme=gruvbox&show_icons=True">
+</p>
+ 
+ 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jagatabhay&repo=TSAI&show_owner=True&theme=cobalt)](https://github.com/jagatabhay/TSAI)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jagatabhay)](https://github.com/jagatabhay/)
-
-
-
 
 
 
